@@ -47,6 +47,14 @@ This design keeps the main attendance interface clean without displaying a separ
 
 Please use dummy information when testing the system. Do not upload sensitive personal or biometric information.
 
+### Administrator Access Restrictions
+
+The Unidentified Visitor Management page within the Administrator interface is unavailable in the public demo due to privacy and data protection concerns.
+
+This page contains facial images of individuals who have not provided consent for public viewing. Therefore, access to this feature has been restricted to protect their privacy.
+
+This restriction applies only to the public demonstration and does not affect the functionality of the original system.
+
 ## My Contributions
 
 **Role: Primary Developer & System Planner**
@@ -144,39 +152,47 @@ Manual check-in is available as an alternative method.
 
 ### Facial Recognition
 
-![Facial Recognition](screenshots/facial_recognition.png)
+![Facial Recognition](screenshots/face.png)
 
 ### Manual Check-In
 
-![Manual Check-In](screenshots/manual_checkin.png)
+![Manual Check-In](screenshots/manual.png)
+
+### Login
+
+![Manual Check-In](screenshots/login.png)
 
 ### User Registration
 
-![User Registration](screenshots/user_registration.png)
+![User Registration](screenshots/register.png)
 
 ### User Profile
 
-![User Profile](screenshots/user_profile.png)
+![User Profile](screenshots/profile.png)
 
 ### Administrator Dashboard
 
-![Administrator Dashboard](screenshots/admin_dashboard.png)
+![Administrator Dashboard](screenshots/admin.png)
 
-### User Management
+### Attendance Logs
 
-![User Management](screenshots/user_management.png)
-
-### Attendance Records
-
-![Attendance Records](screenshots/attendance_logs.png)
+![Administrator Dashboard](screenshots/log.png)
 
 ### Monthly Attendance Report
 
-![Monthly Report](screenshots/monthly_report.png)
+![Monthly Report](screenshots/monthly.png)
 
 ### Annual Attendance Report
 
-![Annual Report](screenshots/yearly_report.png)
+![Annual Report](screenshots/yearly.png)
+
+### Location Management
+
+![User Management](screenshots/location.png)
+
+### About
+
+![User Management](screenshots/about.png)
 
 ## Demo Video
 
