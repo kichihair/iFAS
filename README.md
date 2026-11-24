@@ -211,7 +211,6 @@ This repository is intended solely for portfolio and demonstration purposes. Vis
 | --- | --- |
 | Project Name | iFAS |
 | Full Name | Intelligent Facial Attendance System |
-| Original Name | iPALS |
 | Project Type | Industrial Training Project |
 | Year | 2025 |
 | Development Method | Collaborative Team Development |
