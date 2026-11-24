@@ -27,6 +27,17 @@ The system was intended for official library use but has not yet been officially
 
 > Python-based facial recognition functionality may be limited in the hosted version due to shared hosting restrictions.
 
+### How to Access the Login Page
+
+The homepage is primarily designed for attendance recording. The login page can be accessed directly through the iFAS logo.
+
+1. Visit the iFAS homepage.
+2. Hover your mouse cursor over the iFAS logo.
+3. Click on the logo to be redirected directly to the login page.
+4. Log in using the User or Administrator demo credentials provided above.
+
+This design keeps the main attendance interface clean without displaying a separate login button.
+
 ## Demo Accounts
 
 | Role | Login ID | Password |
