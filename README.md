@@ -196,7 +196,7 @@ Manual check-in is available as an alternative method.
 
 ## Demo Video
 
-[Watch System Demonstration](YOUR_DEMO_VIDEO_LINK)
+[Watch System Demonstration](https://youtu.be/gknq8G4F8DY)
 
 ## Local Installation
 
